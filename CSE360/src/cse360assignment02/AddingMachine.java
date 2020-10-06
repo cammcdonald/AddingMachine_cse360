@@ -1,7 +1,7 @@
 package cse360assignment02;
 
 /** 
- * Adding Machine Original State
+ * Adding Machine Complete
  * @author Cameron McDonald
  *
  */

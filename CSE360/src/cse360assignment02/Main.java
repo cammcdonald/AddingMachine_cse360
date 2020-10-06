@@ -1,8 +1,8 @@
 package cse360assignment02;
 
 /**
- * Test
- * @author cammc
+ * Test File
+ * @author Cameron McDonald
  *
  */
 
